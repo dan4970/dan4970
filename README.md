@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Daniel Cesar</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank"><img src="https://github.com/dan4970/dan4970/blob/main/Gemini_Generated_Image_k8mgznk8mgznk8mg.jpg"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
